@@ -76,7 +76,7 @@ These buttons are longer than Sanwa and generic buttons. Be mindful when install
 | **Lamp Holder** | **Color** | **Lamp** | **Switch**  | **Spring** | **Link**      | **Price** |
 |-----------------|-----------|----------|-------------|------------|---------------|-----------|
 | Generic         | White     | None     | Optional    | Optional   | [Partum][P1]  | 8000 KRW  |
-| Generic         | White     | None     | Optional    | Optional   | [ISTMALL][I3]  | $9.00 USD |
+| Generic         | White     | LED (6V, White)    | Zippy VM-P1F-00D0-1-Z 50g  | 60g   | [ISTMALL][I3]  | $9.00 USD |
 
 
 ----
